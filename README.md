@@ -8,9 +8,13 @@ Installation > Windows 7 x64
 1. Install Cygwin with git package
 2. Install Python on Windows
 3. Install Python packages
+
     3.1    pip install --upgrade pip
+    
     3.2    pip install --upgrade ipython jupyter pandas
+    
     3.3    pip install --matplotlib 
+    
     3.4    pip install --scikit-learn
 
 RUN > 
