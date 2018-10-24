@@ -21,7 +21,7 @@ RUN >
 1. Open Administrator command prompt
 2. Create a folder myfirstAnaysis
 3. cd myfirstAnaysis
-4. git clone https://github.com/yadav26/DataAnalysis.git
+4. Launch Cygwin -> cd to myfirstAnalysis and run command to clone repository=> git clone https://github.com/yadav26/DataAnalysis.git
 5. cd DataAnalysis
 6. execute command "jupyter notebook"
 7. Webpage launched with address http://localhost:8888/tree
