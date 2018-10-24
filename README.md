@@ -23,7 +23,7 @@ RUN >
 3. cd myfirstAnaysis
 4. Launch Cygwin -> cd to myfirstAnalysis and run command to clone repository=> git clone https://github.com/yadav26/DataAnalysis.git
 5. cd DataAnalysis
-6. execute command "jupyter notebook"
+6. From Admin cmd prompt execute command "jupyter notebook"
 7. Webpage launched with address http://localhost:8888/tree
 8. Click on file Titanic_DataAnalysis.ipynb >> launch notebook in a new web tab
 9. Select line -1 > press key <Shift + Enter> to execute line code 
